@@ -17,4 +17,3 @@ This repository presents a comprehensive exploratory data analysis (EDA) project
 ## 🔍 Keywords
 
 `consumer behavior` · `retail analytics` · `sales trends` · `data visualization` · `EDA` · `shopping insights` · `Python data analysis` · `customer segmentation` · `pandas` · `seaborn`
-"# Consumer-Behavior-Analytics---EDA" 
